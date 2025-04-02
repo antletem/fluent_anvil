@@ -1,3 +1,0 @@
-roles:
-- name: my_role
-  components: [native_datepicker]
